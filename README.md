@@ -4,3 +4,5 @@ Some good-to-know things when playing around with this:
   3. You need to have pygame installed. ...and Python, of course^^
   4. I have a couple of presets for the locations, masses, velocities, etc. of planets. You can find them at line 238+ in the game.py file.
   5. Execute game.py to launch the simulation. module_planet.py is a class that holds the Planet-Object.
+  
+PS: If someone is interested in the same thing written in JS, just let me know. I'm just too lazy to upload it if noone's ever gonna see it.
